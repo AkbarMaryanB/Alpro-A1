@@ -1,4 +1,4 @@
-/*Nama File	: Nomor9*/
+/*Nama File	: Nomor8*/
 /*Deskripsi	: menuliskan ke layar nama-nama hari dari nomor hari tersebut yaitu 1 s.d. 7 yang dibaca dari masukan keyboard*/
 /*Pembuat	: Akbar Maryan Bagaskara - 24060121120019*/
 /*Tgl pembuatan	: 09 Maret 2022*/
